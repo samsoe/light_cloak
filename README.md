@@ -1,5 +1,4 @@
-# Documentation
-## Photo Array: [Album](https://photos.app.goo.gl/SsRp7zZbczlQevS43)
+# Photo Array: [Album](https://photos.app.goo.gl/SsRp7zZbczlQevS43)
 ![img_0038](https://user-images.githubusercontent.com/673296/37571671-695699a4-2ac5-11e8-9efb-c19219b4ea5b.JPG)
 
 # light_cloak
